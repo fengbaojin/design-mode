@@ -1,8 +1,8 @@
 package com.design.mode.DMA2_工厂方法.F1;
 
-import com.design.mode.DMA2_工厂方法.DM1.Chat;
-import com.design.mode.DMA2_工厂方法.DM1.QQ;
-import com.design.mode.DMA2_工厂方法.DM1.WeiXin;
+import com.design.mode.DMA2_工厂方法.DM2.Chat;
+import com.design.mode.DMA2_工厂方法.DM2.QQ;
+import com.design.mode.DMA2_工厂方法.DM2.WeiXin;
 
 /**
  * <p>单方法工厂模式</p>

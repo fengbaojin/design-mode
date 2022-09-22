@@ -1,7 +1,7 @@
 package com.design.mode.DMA2_工厂方法;
 
 
-import com.design.mode.DMA2_工厂方法.DM1.Chat;
+import com.design.mode.DMA2_工厂方法.DM2.Chat;
 import com.design.mode.DMA2_工厂方法.F1.ChatFactory1;
 import com.design.mode.DMA2_工厂方法.F2.ChatFactory2;
 import com.design.mode.DMA2_工厂方法.F3.ChatFactory3;

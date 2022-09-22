@@ -1,4 +1,4 @@
-package com.design.mode.DMA2_工厂方法.DM1;
+package com.design.mode.DMA2_工厂方法.DM2;
 
 /**
  * <p>聊天接口</p>
