@@ -1,23 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="GROUP_BY_SEVERITY" value="true" />
+  </component>
   <component name="AutoImportSettings">
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
     <list default="true" id="45fa5922-d692-47eb-9480-296f24b308d5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/design/mode/DMA1_单例模式/饿汉式/饿汉式方式1/Singleton.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/design/mode/DMA2_工厂方法/DM1/Chat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/design/mode/DMA2_工厂方法/DM1/QQ.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/design/mode/DMA2_工厂方法/DM1/WeiXin.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/design/mode/DMA2_工厂方法/F1/ChatFactory1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/design/mode/DMA2_工厂方法/F2/ChatFactory2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/design/mode/DMA2_工厂方法/F3/ChatFactory3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/design/mode/DMA2_工厂方法/FactoryTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/application.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/application.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -91,6 +82,7 @@
       <updated>1663319393786</updated>
       <workItem from="1663319395668" duration="615000" />
       <workItem from="1663755034599" duration="2815000" />
+      <workItem from="1663835260636" duration="1037000" />
     </task>
     <servers />
   </component>
